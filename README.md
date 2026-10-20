@@ -38,8 +38,7 @@ Polyglot developer at the intersection of tooling and games, building CLI utilit
 
 <h3>Contribution Streak</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Strikey5852&theme=transparent&hide_border=true&fire=ffffff&ring=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 </div>
-
 
