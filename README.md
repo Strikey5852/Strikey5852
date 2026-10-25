@@ -6,7 +6,7 @@ Polyglot developer at the intersection of tooling and games, building CLI utilit
 
 <a href="https://modrinth.com/user/Strikey5852"><img src="https://cdn.simpleicons.org/modrinth/00AF5C" height="25px" style="margin: 0 5px;" alt="Modrinth"></a>
 <a href="https://www.curseforge.com/members/strikey5852"><img src="https://cdn.simpleicons.org/curseforge/F16436" height="25px" style="margin: 0 5px;" alt="CurseForge"></a>
-<a href="https://discord.gg/vEtdj6D7Fz"><img src="https://cdn.simpleicons.org/discord/5865F2" height="25px" style="margin: 0 5px;" alt="Discord"></a>
+<a href="https://discord.com/invite/JWjzKcjCnS"><img src="https://cdn.simpleicons.org/discord/5865F2" height="25px" style="margin: 0 5px;" alt="Discord"></a>
 
 </div>
 
